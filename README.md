@@ -1,3 +1,9 @@
+● Delivered Interrupts from system, including system calls, and exceptions
+● Implemented paging by mapping virtual memory to physical memory
+● Implemented keyboard and mouse modules to handle user input by i8259 PIC microcontrollers
+● Developed multiple terminals and ​Round-Robin​ scheduler to support terminal switch
+● Built file system to support file operations and allowed up to 8 open files for a single task
+
 LOGISTICS
 -----
 ECE 391 MP3 
